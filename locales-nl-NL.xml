@@ -62,8 +62,8 @@
     <term name="version">versie</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">nC</term>
+    <term name="bc">vC</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
